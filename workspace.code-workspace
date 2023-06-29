@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../fps"
+		},
+		{
+			"path": "../pytorch-image-classification"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}

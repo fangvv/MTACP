@@ -1,0 +1,21 @@
+{
+    "dataset": "cifar100_people",
+    "preserve_ratio": 0.5,
+    "model": "mobilenet",
+    "n_data_worker": 8,
+    "export_model": false,
+    "use_new_input": false,
+    "lbound": 0.2,
+    "rbound": 1,
+    "reward": "acc_reward",
+    "data_root": "/../dataset/cifar-100",
+    "ckpt_path": "./checkpoints/mobilenetamc_cifar100_people.pth",
+    "seed": 2022,
+    "batch_size": 24, 
+    "n_gpu": 1,
+    "acc_metric": "acc1",
+    "channel_round": 8,
+    "n_points_per_layer": 10,
+    "n_calibration_batches": 60,
+    "use_real_val": false
+}

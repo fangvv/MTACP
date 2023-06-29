@@ -1,0 +1,7 @@
+*.pyc
+dataset/*
+checkpoint/*
+*.pth
+
+__MACOSX
+__pycache__

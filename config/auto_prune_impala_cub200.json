@@ -1,0 +1,21 @@
+{
+    "dataset": "cub200",
+    "preserve_ratio": 0.5,
+    "model": "mobilenet",
+    "n_data_worker": 8,
+    "export_model": false,
+    "use_new_input": false,
+    "lbound": 0.2,
+    "rbound": 1,
+    "reward": "acc_reward",
+    "data_root": "/../dataset/CUB_200_PROCESSED",
+    "ckpt_path": "./checkpoints/mobilenet_cub.pth",
+    "seed": 2022,
+    "batch_size": 8, 
+    "n_gpu": 1,
+    "acc_metric": "acc1",
+    "channel_round": 8,
+    "n_points_per_layer": 10,
+    "n_calibration_batches": 60,
+    "use_real_val": false
+}
