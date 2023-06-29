@@ -1,4 +1,5 @@
-This is the mac os branch of master!
+This is the source code and the camera ready version (in PDF) for our IJCNN 2023 paper “Deep Reinforcement Learning based Multi-task Automated Channel Pruning for DNNs”.
+
 # autoPrune
 automatic model channel pruning using distributed reinforcement learning
 ```sh
