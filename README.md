@@ -4,6 +4,17 @@ This is the source code and the camera ready version (in PDF) for our IJCNN 2023
 
 You can find the paper from this repo [link](https://github.com/fangvv/MTACP/blob/main/MTACP%20Paper%20Camera%20Ready.pdf) or [ieeexplore](https://doi.org/10.1109/IJCNN54540.2023.10191092).
 
+## Citation
+
+    @inproceedings{ma2023deep,
+        title={Deep Reinforcement Learning Based Multi-Task Automated Channel Pruning for DNNs},
+        author={Ma, Xiaodong and Fang, Weiwei},
+        booktitle={2023 International Joint Conference on Neural Networks (IJCNN)},
+        pages={1--9},
+        year={2023},
+        organization={IEEE}
+    }
+
 # autoPrune
 automatic model channel pruning using distributed reinforcement learning
 ```sh
