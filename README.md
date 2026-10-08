@@ -228,6 +228,10 @@ python eval_mobilenet.py
 
 See `scripts/search_mobilenet_0.5flops.sh`, `scripts/finetune_mobilenet_0.5flops.sh`, and `scripts/export_mobilenet_0.5flops.sh` for ready-to-run examples.
 
+## ⭐ Star
+
+**If you find this work useful for your research, please consider giving this repository a ⭐ star. Your support is greatly appreciated!**
+
 ## Citation
 
 If you find MTACP useful or relevant to your project and research, please kindly cite our paper:
